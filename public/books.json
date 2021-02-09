@@ -1,0 +1,164 @@
+[
+
+  {
+    "id": 1,
+    "title": "1984",
+    "author": "Джордж Оруэлл",
+    "image": "https://images.ua.prom.st/134226437_w700_h500_1984-ek-dzhordzh.jpg",
+    "price": 415,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "Девушка в тумане",
+    "author": "Донато Карризи",
+    "image":
+      "https://im0-tub-ua.yandex.net/i?id=7b6181a9686a8911f4dbebbae058f7cd&n=13",
+    "price": 464,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "title": "Империя должна умереть",
+    "author": "Михаил Зыгарь",
+    "image":
+      "https://royallib.com/data/images/410/cover_410590.jpg",
+    "price": 741,
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "title": "Земное притяжение",
+    "author": "Татьяна Устинова",
+    "image":
+      "https://extego.ru/images/detailed/11678/33904_main_.jpg",
+    "price": 317,
+    "rating": 1
+  },
+  {
+    "id": 5,
+    "title": "Зулейха открывает глаза",
+    "author": "Гузель Яхина",
+    "image":
+      "https://akonit.net/image/cache/catalog/feed_3/27572-321507-1000x1000.jpg",
+    "price": 254,
+    "rating": 0
+  },
+  {
+    "id": 6,
+    "title": "Очаровательный кишечник. Как самый могущественный орган управляет нами",
+    "author": "Джулия Эндерс",
+    "image":
+      "https://knigosklad.com.ua/media/catalog/product/cache/1/image/800x/602f0fa2c1f0d1ba5e241f914e856ff9/9/f/9f3dc106bfbf3a2f1fa5c3d73941d4ac.jpg",
+    "price": 573,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "title": "iPhuck 10",
+    "author": "Виктор Пелевин",
+    "image":
+      "https://pbs.twimg.com/media/Dw8twWpXcAEE3XF.jpg:large",
+    "price": 246,
+    "rating": 0
+  },
+  {
+    "id": 8,
+    "title": "7 навыков высокоэффективных людей: Мощные...",
+    "author": "Стивен Кови",
+    "image":
+      "https://avatars.mds.yandex.net/get-zen_doc/1222645/pub_5ea56eb3e391b234dce86cb7_5ea56f088b8c7b4d24376c74/scale_1200",
+    "price": 347,
+    "rating": 5
+  },
+  {
+    "id": 9,
+    "title": "Девушка во льду",
+    "author": "Роберт Брындза",
+    "image":
+      "https://static.my-shop.ru/product/3/355/3543169.jpg",
+    "price": 882,
+    "rating": 2
+  },
+  {
+    "id": 10,
+    "title": "Магия утра. Как первый час дня определяет ваш успех",
+    "author": "Хэл Элрод",
+    "image":
+      "https://blog.kinyokushugisha.ru/wp-content/uploads/24274905_891638124334687_4971956044243664896_n-768x959.jpg",
+    "price": 829,
+    "rating": 1
+  },
+  {
+    "id": 11,
+    
+    "title": "Азиатская европеизация. История Российского государства. Царь Петр...",
+    "author": "Борис Акунин",
+    "image":
+      "https://blog.kinyokushugisha.ru/wp-content/uploads/24274905_891638124334687_4971956044243664896_n-768x959.jpg",
+    "price": 389,
+    "rating": 2
+  },
+  {
+    "id": 12,
+    "title": "Ведьмак (сборник)",
+    "author": "Анджей Сапковский",
+    "image":
+      "https://woody-comics.ru/images/thumbnails/2286/1600/detailed/9/0decf08345a72f9b403bec9c700386a6.jpg",
+    "price": 424,
+    "rating": 3
+  },
+  {
+    "id": 13,
+    "title": "Атлант расправил плечи",
+    "author": "Айн Рэнд",
+    "image":
+      "https://cdn1.ozone.ru/multimedia/1005625294.jpg",
+    "price": 157,
+    "rating": 2
+  },
+  {
+    "id": 14,
+    "title": "Цена вопроса. Том 1",
+    "author": "Александра Маринина",
+    "image":
+      "https://extego.ru/images/detailed/11677/33150_main_.jpg",
+    "price": 664,
+    "rating": 0
+  },
+  {
+    "id": 15,
+    "title": "Исчезнувшая",
+    "author": "Гиллиан Флинн",
+    "image":
+      "https://im0-tub-ua.yandex.net/i?id=afffd7352c345e3c9b866c3a13475700&n=13",
+    "price": 476,
+    "rating": 4
+  },
+  {
+    "id": 17,
+    "title": "Метро 2035",
+    "author": "Дмитрий Глуховский",
+    "image":
+      "https://images.by.prom.st/108551638_w640_h640_metro-2035.jpg",
+    "price": 837,
+    "rating": 4
+  },
+  {
+    "id": 18,
+    "title": "Снеговик",
+    "author": "Ю Несбё",
+    "image": "https://avatars.mds.yandex.net/get-zen_doc/175604/pub_5c04cf1885358603b75dea7c_5c04cf6df32a8c043cf4205e/scale_1200",
+    "price": 796,
+    "rating": 5
+  },
+  {
+    "id": 19,
+    "title": "Как тренировать память. Не думайте о памяти – лучше используйте ее на все сто!",
+    "author": "Джонатан Хэнкок",
+    "image":
+      "https://cdn1.ozone.ru/multimedia/c1200/1005670797.jpg",
+    "price": 399,
+    "rating": 5
+  }
+]
