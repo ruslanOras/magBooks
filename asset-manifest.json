@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/magBooks/static/css/main.e67e0da4.chunk.css",
+    "main.js": "/magBooks/static/js/main.bc1f67e5.chunk.js",
+    "main.js.map": "/magBooks/static/js/main.bc1f67e5.chunk.js.map",
+    "runtime-main.js": "/magBooks/static/js/runtime-main.387986f6.js",
+    "runtime-main.js.map": "/magBooks/static/js/runtime-main.387986f6.js.map",
+    "static/css/2.2ed83ace.chunk.css": "/magBooks/static/css/2.2ed83ace.chunk.css",
+    "static/js/2.f1bd7078.chunk.js": "/magBooks/static/js/2.f1bd7078.chunk.js",
+    "static/js/2.f1bd7078.chunk.js.map": "/magBooks/static/js/2.f1bd7078.chunk.js.map",
+    "index.html": "/magBooks/index.html",
+    "static/css/2.2ed83ace.chunk.css.map": "/magBooks/static/css/2.2ed83ace.chunk.css.map",
+    "static/css/main.e67e0da4.chunk.css.map": "/magBooks/static/css/main.e67e0da4.chunk.css.map",
+    "static/js/2.f1bd7078.chunk.js.LICENSE.txt": "/magBooks/static/js/2.f1bd7078.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/magBooks/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.387986f6.js",
+    "static/css/2.2ed83ace.chunk.css",
+    "static/js/2.f1bd7078.chunk.js",
+    "static/css/main.e67e0da4.chunk.css",
+    "static/js/main.bc1f67e5.chunk.js"
+  ]
+}
